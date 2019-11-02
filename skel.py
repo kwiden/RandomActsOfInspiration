@@ -1,3 +1,5 @@
+# Skeleton Code at https://github.com/kwiden/RandomActsOfInspiration
+
 import random
 
 #import phrases
